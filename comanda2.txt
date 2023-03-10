@@ -1,0 +1,8 @@
+Comanda ID: 2
+Client ID: 3
+Data comanda: 16-01-2023 16:21
+Total: 1235
+Produse comandate:
+Alien EP 
+Bouquet Ideale EP 
+Erba Pura EP 

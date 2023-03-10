@@ -1,0 +1,8 @@
+Comanda ID: 1
+Client ID: 3
+Data comanda: 16-01-2023 16:19
+Total: 1199
+Produse comandate:
+Alien EP 
+Ange Ou Demon EP 
+Bitter Peach EP 
